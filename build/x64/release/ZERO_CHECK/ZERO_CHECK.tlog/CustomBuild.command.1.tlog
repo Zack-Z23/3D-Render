@@ -1,0 +1,10 @@
+^C:\USERS\ZACKZ\CPP PROJECT\BUILD\CMAKEFILES\106C5530508A1D00DCD9A5067E5B6047\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/zackz/CPP Project" "-BC:/Users/zackz/CPP Project/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/zackz/CPP Project/build/CPP_Project.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

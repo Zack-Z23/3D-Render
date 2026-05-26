@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CPP_Project.dir\\Release\\main.obj",
+            "outputs": [
+                "CPP_Project.dir\\Release\\"
+            ],
+            "requires": []
+        }
+    ]
+}
