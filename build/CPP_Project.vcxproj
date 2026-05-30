@@ -359,6 +359,11 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\zackz\CPP Project\main.cpp" />
     <ClInclude Include="C:\Users\zackz\CPP Project\vec3.h" />
     <ClInclude Include="C:\Users\zackz\CPP Project\color.h" />
+    <ClInclude Include="C:\Users\zackz\CPP Project\ray.h" />
+    <ClInclude Include="C:\Users\zackz\CPP Project\hittable.h" />
+    <ClInclude Include="C:\Users\zackz\CPP Project\sphere.h" />
+    <ClInclude Include="C:\Users\zackz\CPP Project\hittable_list.h" />
+    <ClInclude Include="C:\Users\zackz\CPP Project\rtweekend.h" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

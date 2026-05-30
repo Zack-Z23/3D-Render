@@ -8,4 +8,6 @@ add_executable(CPP_Project main.cpp
         color.h
         ray.h
         hittable.h
-        sphere.h)
+        sphere.h
+        hittable_list.h
+        rtweekend.h)
