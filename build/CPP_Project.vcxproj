@@ -364,6 +364,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClInclude Include="C:\Users\zackz\CPP Project\sphere.h" />
     <ClInclude Include="C:\Users\zackz\CPP Project\hittable_list.h" />
     <ClInclude Include="C:\Users\zackz\CPP Project\rtweekend.h" />
+    <ClInclude Include="C:\Users\zackz\CPP Project\interval.h" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

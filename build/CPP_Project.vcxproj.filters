@@ -27,6 +27,9 @@
     <ClInclude Include="C:\Users\zackz\CPP Project\rtweekend.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Users\zackz\CPP Project\interval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\zackz\CPP Project\CMakeLists.txt" />
