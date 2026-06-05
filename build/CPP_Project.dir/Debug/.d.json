@@ -131,7 +131,8 @@
             "c:\\users\\zackz\\cpp project\\hittable.h",
             "c:\\users\\zackz\\cpp project\\hittable_list.h",
             "c:\\users\\zackz\\cpp project\\sphere.h",
-            "c:\\users\\zackz\\cpp project\\camera.h"
+            "c:\\users\\zackz\\cpp project\\camera.h",
+            "c:\\users\\zackz\\cpp project\\material.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

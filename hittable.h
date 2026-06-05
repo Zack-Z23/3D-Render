@@ -4,10 +4,13 @@
 #include "ray.h"
 #include "interval.h"
 
+class material;
+
 class hit_record {
 public:
     point3 p;
     vec3 normal;
+    shared_ptr<material> mat;
     double t;
     bool front_face;
 
@@ -25,4 +28,5 @@ public:
     virtual ~hittable() = default;
     virtual bool hit(const ray& r, interval ray_t, hit_record& rec) const = 0;
 };
+
 #endif
