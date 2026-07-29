@@ -1,4 +1,4 @@
-# Final Render
+### Final Render
  
 The culmination of the series: a scene with hundreds of randomly generated spheres across all three material types — Lambertian, metal, and glass — rendered with a narrow field of view, a distant camera position, and subtle depth of field.
  
